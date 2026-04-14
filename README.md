@@ -6,9 +6,9 @@ Language(s) Used: Python
 
 Models Trained & Tested: Linear Regression, Random Forest, Gradient Boosting, XGBoost, Ensemble
 
-Input: Real Weather Data and Synthesized kWh data
+Input: Real Weather Data and Synthesized kWh data [Utica_8-6_activity_training_kWH.csv]
 
-Output: predicted_kWh
+Output: predicted_kWh [ml_baseline.csv]
 
 See .ipynb file for original notebook formatting for generation of .pkl files. Also included is a .py file for testing and reproducibility.
 
